@@ -130,7 +130,7 @@
                             <li class="header__navbar-item header__navbar-item-strong">Đăng Nhập</li> -->
                             <li class="header__navbar-item header__navbar-user">
                                 <img src="https://bannenbiet.com/wp-content/uploads/2020/07/ngon-ngu-meo.jpg?v=1643127345" alt="user" class="header__navbar-user-img">
-                                <span class="header__navbar-user-name">Dumb Cat</span>
+                                <span class="header__navbar-user-name">Bảo</span>
 
                                     <ul class="header__navbar-user-menu">
                                         <li class="header__navbar-user-item">
